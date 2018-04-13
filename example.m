@@ -1,5 +1,5 @@
 % Example code for inferring the Effective model introduced in 
-% 'A simple model for low variability in neural spike trains', by Ferrari, Deny, Marre, Thierry, arXiv, 2018
+% 'A simple model for low variability in neural spike trains', by Ferrari, Deny, Marre, Mora, arXiv, 2018
 
 clear all; close all;
 
