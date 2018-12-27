@@ -8,7 +8,7 @@ function [ Model ,hess] = infer_Effective_Model( response, eta,tolerance)
 % eta = L2 regularization on the inference parameters
 %
 % Use Newton method to infer the Effective model introduced in
-% 'A simple model for low variability in neural spike trains', by Ferrari, Deny, Marre, Mora, arXiv, 2018
+% 'A simple model for low variability in neural spike trains', by Ferrari, Deny, Marre, Mora, Neural Computation, 30, 11, 2018
 %
 % The model characterize the sub-poissonian distribution of the spike-count sigma for a
 % neuron with firing rate lambda:
